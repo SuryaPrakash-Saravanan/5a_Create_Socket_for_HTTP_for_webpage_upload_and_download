@@ -97,7 +97,8 @@ index.html
 ## OUTPUT
 <img width="1019" height="390" alt="Screenshot 2026-06-02 104106" src="https://github.com/user-attachments/assets/84eca2a9-2596-40a4-a1dc-52ba78e5dc12" />
 
-<img width="871" height="745" alt="Screenshot 2026-06-02 104140" src="https://github.com/user-attachments/assets/ed2cda77-4ab5-40cb-93e7-8a0c0541b801" />
+<img width="806" height="745" alt="Screenshot 2026-06-02 104140" src="https://github.com/user-attachments/assets/c208d4a5-2afe-4400-bee5-d464ceda3ed6" />
+
 
 
 ## Result
